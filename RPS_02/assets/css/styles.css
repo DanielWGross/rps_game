@@ -1,0 +1,17 @@
+/* Apply to the whole page */
+html {
+  margin: 30px;
+}
+
+/* Target multiple headings inside the jumbotron */
+.jumbotron h1, .heading-container {
+  text-align: center;
+}
+
+/* Apply some styles to the h3 */
+.heading-container h3 {
+  background-color: blue;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+}
